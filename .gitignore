@@ -1,0 +1,6 @@
+node_modules/
+dist/
+dist-main/
+.vscode/
+.DS_Store
+release/
